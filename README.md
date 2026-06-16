@@ -13,4 +13,4 @@ ASIR graduate based in Spain, currently focused on building a career in **Cloud 
 - Building hands-on Cloud projects
 
 **Connect**
-- LinkedIn: [www.linkedin.com/in/raul-palenzuela-mateo-80565b27a]
+- LinkedIn: [Raúl Palenzuela](https://www.linkedin.com/in/raul-palenzuela-mateo-80565b27a)
