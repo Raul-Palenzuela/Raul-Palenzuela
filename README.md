@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Raúl 👋
 
-<!--
-**Raul-Palenzuela/Raul-Palenzuela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASIR graduate based in Spain, currently focused on building a career in **Cloud and DevOps**.
 
-Here are some ideas to get you started:
+**Current focus**
+- 🎯 AWS Certified Cloud Practitioner (in progress)
+- 🐧 Linux systems administration
+- ☁️ Learning AWS core services (EC2, IAM, S3, VPC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Next steps**
+- AWS Solutions Architect Associate
+- Infrastructure as Code with Terraform
+- Building hands-on Cloud projects
+
+**Connect**
+- LinkedIn: [www.linkedin.com/in/raul-palenzuela-mateo-80565b27a]
